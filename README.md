@@ -8,6 +8,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="380"/>
+
+<br/>
+
 ![B.Tech](https://img.shields.io/badge/B.Tech-Madhyanchal%20Professional%20University-6D28D9?style=flat-square)
 ![JSpiders](https://img.shields.io/badge/Certified-JSpiders%20Full--Stack-7C3AED?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Pune,%20Maharashtra-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
@@ -29,7 +33,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="35"/>
 
 I'm a **Full Stack Developer** based in Pune, India, focused on building clean, production-ready web applications with the **MERN stack**, **Next.js**, and **Java/Spring Boot**. I care about writing maintainable code, solid UI/UX, and shipping things that actually work end to end — from database schema to deployed frontend.
 
@@ -43,6 +47,12 @@ Right now I'm building **Buddy Apply AI**, a Chrome extension that helps job see
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,tailwind,nodejs,express,spring,mongodb,postgres,aws,gcp,docker,git,vercel&theme=dark&perline=8" />
+</div>
+
+<br/>
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -149,6 +159,10 @@ Evaluated AI-generated code outputs for correctness, quality, and reasoning as p
 
 ## 🎯 Current Focus
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="320"/>
+</div>
+
 ```yaml
 Learning:
   - System Design fundamentals
@@ -217,6 +231,8 @@ Open To:
 <div align="center">
 
 *"Build things that work, ship them, and keep learning."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-24a75766-71a0-4c3e-a933-c1bdd41f7e6a.gif" width="80"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
 
