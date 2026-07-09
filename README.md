@@ -8,10 +8,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="380"/>
-
-<br/>
-
 ![B.Tech](https://img.shields.io/badge/B.Tech-Madhyanchal%20Professional%20University-6D28D9?style=flat-square)
 ![JSpiders](https://img.shields.io/badge/Certified-JSpiders%20Full--Stack-7C3AED?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Pune,%20Maharashtra-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
@@ -33,26 +29,21 @@
 
 ---
 
-## 🧠 About Me <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="35"/>
+## 🧠 About Me
 
-I'm a **Full Stack Developer** based in Pune, India, focused on building clean, production-ready web applications with the **MERN stack**, **Next.js**, and **Java/Spring Boot**. I care about writing maintainable code, solid UI/UX, and shipping things that actually work end to end — from database schema to deployed frontend.
+I'm a **Java Full Stack Developer** based in Pune, India, currently working at **Bajaj Finserv**, focused on building clean, production-ready web applications with **Java/Spring Boot**, **MERN**, and **Next.js**. I care about writing maintainable code, solid UI/UX, and shipping things that actually work end to end — from database schema to deployed frontend.
 
-Right now I'm building **Buddy Apply AI**, a Chrome extension that helps job seekers with resume parsing, ATS scoring, job matching, and application tracking — a project born directly out of my own job search.
+Alongside my day job, I'm building **foodhub-platform**, a 13-module Spring Boot microservices project (Eureka, API Gateway, JWT auth, Kafka, Resilience4j) — and **Buddy Apply AI**, a Chrome extension born out of my own job search.
 
-- 🔭 Currently building **Buddy Apply AI** — a job application assistant Chrome extension
-- 💼 Experience across support engineering (Tech Mahindra), structured full-stack training (JSpiders), and freelance AI evaluation work (Outlier)
+- 💼 Currently working as a **Java Full Stack Developer at Bajaj Finserv**
+- 🔭 Building **foodhub-platform** — a Spring Boot microservices system, and **Buddy Apply AI** — a job application assistant Chrome extension
+- 🧱 Prior experience: support engineering (Tech Mahindra), structured full-stack training (JSpiders), freelance AI evaluation (Outlier)
 - 🌱 Sharpening System Design, DSA, and Cloud (AWS/GCP) fundamentals
 - 🎯 **Open to:** Full-Stack (MERN), Java Backend, Node.js, and React.js roles — including remote and visa-sponsored opportunities
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,tailwind,nodejs,express,spring,mongodb,postgres,aws,gcp,docker,git,vercel&theme=dark&perline=8" />
-</div>
-
-<br/>
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -72,6 +63,8 @@ Right now I'm building **Buddy Apply AI**, a Chrome extension that helps job see
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Eureka](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -100,6 +93,25 @@ A live e-commerce storefront for a pharmacy business, built with Next.js and Tai
 | **Repository** | [github.com/sinhaayush20010310-commits/Medicart](https://github.com/sinhaayush20010310-commits/Medicart) |
 
 Built end-to-end as a real client-facing storefront — covering product listing, navigation, and responsive layout for a live pharmacy business.
+
+</details>
+
+<details>
+<summary><b>🍔 FoodHub Platform — Spring Boot Microservices Ecosystem</b></summary>
+<br/>
+
+A 13-module food delivery backend built as a microservices architecture, covering service discovery, API gateway routing, JWT-secured auth, and resilient inter-service communication.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot, Spring Cloud (Eureka, Gateway), Kafka, Docker, Resilience4j |
+| **Architecture** | Eureka discovery server, API Gateway with JWT validation, independently deployable services |
+| **Implemented Services** | Auth (BCrypt + JWT), Restaurant, Order (cart state machine, circuit breaker) |
+| **Resilience** | Resilience4j circuit breakers for fault-tolerant service calls |
+| **Run Locally** | `mvn clean package -DskipTests` + `docker compose up --build` |
+| **Repository** | [github.com/sinhaayush20010310-commits/foodhub-platform](https://github.com/sinhaayush20010310-commits/foodhub-platform) |
+
+Built to demonstrate real-world microservices patterns — service discovery, gateway routing, distributed auth, and circuit breaking — as a practical companion to backend interview prep.
 
 </details>
 
@@ -140,6 +152,12 @@ A personal portfolio site built with React, Vite, and TypeScript — featuring a
 
 ## 💼 Experience
 
+**Java Full Stack Developer — Bajaj Finserv**
+*November 2025 — Present*
+Working on Java/Spring Boot backend systems in a large-scale fintech environment, contributing to production applications and enterprise workflows.
+
+`Java` `Spring Boot` `Microservices` `SQL`
+
 **Support Associate — Tech Mahindra**
 *Resigned, February 2025*
 Handled technical support operations, troubleshooting, and process workflows in a fast-paced enterprise environment before transitioning fully into software development.
@@ -159,18 +177,18 @@ Evaluated AI-generated code outputs for correctness, quality, and reasoning as p
 
 ## 🎯 Current Focus
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="320"/>
-</div>
-
 ```yaml
-Learning:
-  - System Design fundamentals
-  - Advanced React patterns & Next.js App Router
-  - Cloud deployment (AWS/GCP)
+Working:
+  - Java Full Stack Developer @ Bajaj Finserv
 
 Building:
+  - foodhub-platform (Spring Boot Microservices)
   - Buddy Apply AI (Chrome Extension)
+
+Learning:
+  - System Design fundamentals
+  - Kafka & event-driven architecture
+  - Advanced Spring Boot & Cloud deployment (AWS/GCP)
 
 Exploring:
   - Roles with visa sponsorship (Switzerland & remote-first companies)
@@ -231,8 +249,6 @@ Open To:
 <div align="center">
 
 *"Build things that work, ship them, and keep learning."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-24a75766-71a0-4c3e-a933-c1bdd41f7e6a.gif" width="80"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
 
